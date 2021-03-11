@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Card lol 3D</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="card">
+        <div class="champion">
+          <div class="circle"></div>
+          <img id="slide" src="./img/jinx.png" />
+        </div>
+        <div class="info">
+          <h1 id="title" class="title">Jinx</h1>
+          <h3 id="description">
+            Uma criminosa impulsiva e maníaca de Zaun, Jinx vive para disseminar
+            o caos sem se preocupar com as consequências.
+          </h3>
+          <div class="sizes">
+            <button id="btnTris" value="tristana" onclick="alteraTris();">
+              Tristana
+            </button>
+
+            <button id="btnYasuo" value="yasuo" onclick="alteraYasuo();">
+              Yasuo
+            </button>
+
+            <button id="btnJinx" value="jinx" onclick="alteraJinx();">
+              Jinx
+            </button>
+          </div>
+          <div class="about">
+            <a
+              id="link-About"
+              href="https://br.leagueoflegends.com/pt-br/champions/jinx/"
+              target="_blanck"
+            >
+              <button>VER MAIS</button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>
