@@ -11,7 +11,7 @@ O projeto utiliza as seguintes ferramentas:
 
 ## ⚙ Deploy no Vercel
 <h3 align="left">
-      <a href="https://notebook-homepage.vercel.app/" target="_blank">Acesse o Link</a>
+      <a href="https://card-champions-lol.vercel.app/" target="_blank">Acesse o Link</a>
 </h3>
 
 <h4 align="center">
