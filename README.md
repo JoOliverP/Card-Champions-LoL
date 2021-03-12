@@ -10,9 +10,9 @@ O projeto utiliza as seguintes ferramentas:
 * Javascript
 
 ## ⚙ Deploy no Vercel
-<h3 align="left">
+<h4 align="left">
       <a href="https://card-champions-lol.vercel.app/" target="_blank">Acesse o Link</a>
-</h3>
+</h4>
 
 <h4 align="center">
 Feito com 💜 por <a href="https://www.linkedin.com/in/j%C3%B3-oliveira-2756a5180/" target="_blank">Jó OLiveira</a>
